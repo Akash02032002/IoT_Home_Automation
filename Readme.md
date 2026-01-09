@@ -2,6 +2,9 @@
 
 ## IoT Home Automation using ESP32 Firebase Realtime Database with Web Dashboard and manual relay control via switches or buttons.
 
+![IMG1](https://github.com/user-attachments/assets/37315754-c660-4b75-aef3-c11454ade220)
+
+
 ### Project Overview
 This project enables you to:
 
@@ -10,6 +13,9 @@ Monitor and update relay status using Firebase Realtime Database.
 Use a web dashboard (hosted on GitHub Pages) to control relays from anywhere in the world.
 Add manual control using either push buttons or latched switches.
 Get real-time feedback and sync between the web dashboard and the physical ESP32 board.
+
+![IMG3](https://github.com/user-attachments/assets/e6b7326a-73b6-42b2-a369-b5d712633e35)
+
 
 ### How the ESP32 Firebase IoT Home Automation Project works
 How the ESP32 Firebase Project Works
@@ -25,6 +31,8 @@ The current state is written back to the Firebase Realtime Database to keep the 
 Manual control the ESP32 Relays
 
 ### Required Components:
-ESP32 DevKIT V1 Amazon
-4-channel 5V SPDT Relay Module Amazon
-Latched switches or Push buttons
+* ESP32 DevKIT V1 Amazon
+* 4-channel 5V SPDT Relay Module Amazon
+* Latched switches or Push buttons
+
+* ![IMG2](https://github.com/user-attachments/assets/e13bc84d-6bdb-412d-9512-1d38a8912a00)
